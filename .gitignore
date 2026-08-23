@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+checkpoints/
+data/raw/
+data/processed/
+demo_media/*.wav
+demo_media/*.mp4
+*.mp3
+.DS_Store
